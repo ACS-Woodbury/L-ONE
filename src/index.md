@@ -1,6 +1,6 @@
 ---
 layout: home
-title: L-ONE&#58; starter kit for going it alone
+title: Starter kit for going it alone
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'L-One is an ESP32-based IoT wireless node starter kit, featuring thermal imaging and blob detection.'
