@@ -72,6 +72,7 @@ module.exports = function(config) {
   });
 
   return {
+	pathPrefix: "/L-ONE/",
     dir: {
       input: 'src',
       output: 'docs'
