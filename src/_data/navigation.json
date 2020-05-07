@@ -9,12 +9,11 @@
       "text": "GitHub",
       "url": "https://acs-woodbury.github.io/L-ONE/",
       "external": true
+    },
+    {
+      "text": "Example Contact Page",
+      "url": "/contact",
+      "external": false
     }
-	//,
-    //{
-    //  "text": "Contact",
-    //  "url": "/contact",
-    //  "external": false
-    //}
   ]
 }
