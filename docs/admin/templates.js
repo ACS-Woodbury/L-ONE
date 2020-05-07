@@ -1770,7 +1770,7 @@ output += "\r\n        ";
 ;
 }
 output += "\r\n\r\n        <li class=\"nav__item\">\r\n          <a href=\"";
-output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
+output += runtime.suppressValue(env.getFilter("url").call(context, runtime.memberLookup((t_4),"url")), env.opts.autoescape);
 output += "\"";
 output += runtime.suppressValue(env.getFilter("safe").call(context, runtime.contextOrFrameLookup(context, frame, "relAttribute")), env.opts.autoescape);
 output += runtime.suppressValue(env.getFilter("safe").call(context, runtime.contextOrFrameLookup(context, frame, "currentAttribute")), env.opts.autoescape);
@@ -1929,7 +1929,7 @@ frame.set("loop.length", t_2);
 output += "\r\n          ";
 if((lineno = 6, colno = 33, runtime.callWrap(runtime.memberLookup((runtime.memberLookup((t_4),"date")),"getTime"), "item[\"date\"][\"getTime\"]", context, [])) <= runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "global")),"now")) {
 output += "\r\n            <li class=\"post-list__item\">\r\n              <h3 class=\"font-base leading-tight text-600 weight-mid\">\r\n                <a href=\"";
-output += runtime.suppressValue(runtime.memberLookup((t_4),"url"), env.opts.autoescape);
+output += runtime.suppressValue(env.getFilter("url").call(context, runtime.memberLookup((t_4),"url")), env.opts.autoescape);
 output += "\" class=\"post-list__link\" rel=\"bookmark\">";
 output += runtime.suppressValue(runtime.memberLookup((runtime.memberLookup((t_4),"data")),"title"), env.opts.autoescape);
 output += "</a>\r\n              </h3>\r\n              <p class=\"text-500 gap-top-300 weight-mid\">\r\n                <time datetime=\"";

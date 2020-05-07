@@ -16,9 +16,9 @@
   
   <entry>
     <title>A simple post</title>
-    <link href="https://acs-woodbury.github.io/leon//posts/a-simple-post/"/>
+    <link href="https://acs-woodbury.github.io/leon//L-ONE/posts/a-simple-post/"/>
     <updated>2019-06-17T17:00:00-07:00</updated>
-    <id>https://acs-woodbury.github.io/leon//posts/a-simple-post/</id>
+    <id>https://acs-woodbury.github.io/leon//L-ONE/posts/a-simple-post/</id>
     <content type="html"><![CDATA[
       <p>A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.</p>
 <p>How about a <code>&lt;blockquote&gt;</code>?</p>
@@ -45,20 +45,20 @@
   
   <entry>
     <title>A post with figures and video</title>
-    <link href="https://acs-woodbury.github.io/leon//posts/a-post-with-figures-and-video/"/>
+    <link href="https://acs-woodbury.github.io/leon//L-ONE/posts/a-post-with-figures-and-video/"/>
     <updated>2019-06-17T17:00:00-07:00</updated>
-    <id>https://acs-woodbury.github.io/leon//posts/a-post-with-figures-and-video/</id>
+    <id>https://acs-woodbury.github.io/leon//L-ONE/posts/a-post-with-figures-and-video/</id>
     <content type="html"><![CDATA[
       <p>A post to demonstrate how a blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.</p>
 <p>If you want to make an image bleed-out, add a title attribute to it and the front-end will automatically wrap it in a <code>&lt;figure&gt;</code> tag for you.</p>
-<p><img src="/images/demo-image-1.jpg" alt="The top of a grey concrete building with a blue sky in the background" title="Brutalism at its finest. Photo by Artificial Photography on Unsplash."></p>
+<p><img src="/L-ONE/images/demo-image-1.jpg" alt="The top of a grey concrete building with a blue sky in the background" title="Brutalism at its finest. Photo by Artificial Photography on Unsplash."></p>
 <p>You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Finally, how about a <code>&lt;blockquote&gt;</code>?</p>
 <blockquote>
 <p>Quotes will take a slightly different style to normal body text and look fancy.</p>
 </blockquote>
-<p><img src="/images/demo-image-2.jpg" alt="Person holds up a photograph of a riverside and buildings with the same river as a backdrop" title="Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash."></p>
+<p><img src="/L-ONE/images/demo-image-2.jpg" alt="Person holds up a photograph of a riverside and buildings with the same river as a backdrop" title="Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash."></p>
 <p>Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.</p>
 
     ]]></content>
@@ -67,9 +67,9 @@
   
   <entry>
     <title>A post with code samples</title>
-    <link href="https://acs-woodbury.github.io/leon//posts/a-post-with-code-samples/"/>
+    <link href="https://acs-woodbury.github.io/leon//L-ONE/posts/a-post-with-code-samples/"/>
     <updated>2019-06-17T17:00:00-07:00</updated>
-    <id>https://acs-woodbury.github.io/leon//posts/a-post-with-code-samples/</id>
+    <id>https://acs-woodbury.github.io/leon//L-ONE/posts/a-post-with-code-samples/</id>
     <content type="html"><![CDATA[
       <p>The best way to demo a code post is to display a real life post, so check out this one from <a href="https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/">andy-bell.design</a> about a full bleed CSS utility.</p>
 <hr>
