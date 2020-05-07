@@ -7,6 +7,7 @@ metaDesc: 'L-One is an ESP32-based IoT wireless node starter kit, featuring ther
 socialImage: ''
 ---
 
+![L-ONE electronics kit hardware](/L-ONE/images/L-ONE-electronic-kit.jpg "L-ONE electronics kit.")
 
 L-ONE is a hardware+firmware starter platform for the Internet of Things (IoT) / Machine-to-machine (M2M) applications, initially developed as an educational project by the Interactive Prototyping studio course at Woodbury University’s [Applied Computer Science program](https://woodbury.edu/program/school-of-media-culture-design/applied-computer-science/)
 
