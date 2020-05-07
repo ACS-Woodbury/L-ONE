@@ -8,7 +8,7 @@ socialImage: ''
 ---
 
 
-L-ONE is a hardware+firmware starter platform for the Internet of Things (IoT) / Machine-to-machine (M2M) applications, initially developed as an educational project by the Interactive Prototyping studio course at Woodbury University’s [Applied Computer Science program] (https://woodbury.edu/program/school-of-media-culture-design/applied-computer-science/)
+L-ONE is a hardware+firmware starter platform for the Internet of Things (IoT) / Machine-to-machine (M2M) applications, initially developed as an educational project by the Interactive Prototyping studio course at Woodbury University’s [Applied Computer Science program](https://woodbury.edu/program/school-of-media-culture-design/applied-computer-science/)
 
 The title of the project stands for “Level-One,” to imply that the platform aims to be a beginner hardware kit suitable for a first-level, introductory course in physical computing or electronics + software prototyping.  The characters of the name can also be rearranged to spell “LEON,” a tribute to Leon Theremin’s invention of his namesake musical instrument one hundred years ago in 1920.
 
