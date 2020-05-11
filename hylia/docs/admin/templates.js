@@ -492,34 +492,55 @@ context.addExport("introSummary", t_5);
 }
 output += "\r\n\r\n";
 output += "\r\n";
+var t_6;
+t_6 = runtime.contextOrFrameLookup(context, frame, "postsHeading");
+frame.set("postListHeading", t_6, true);
+if(frame.topLevel) {
+context.setVariable("postListHeading", t_6);
+}
+if(frame.topLevel) {
+context.addExport("postListHeading", t_6);
+}
+output += "\r\n";
+var t_7;
+t_7 = runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"postFeed");
+frame.set("postListItems", t_7, true);
+if(frame.topLevel) {
+context.setVariable("postListItems", t_7);
+}
+if(frame.topLevel) {
+context.addExport("postListItems", t_7);
+}
+output += "\r\n\r\n";
+output += "\r\n";
 if(runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "postListItems")),"length") < runtime.memberLookup((runtime.memberLookup((runtime.contextOrFrameLookup(context, frame, "collections")),"posts")),"length")) {
 output += " \r\n  ";
-var t_6;
-t_6 = runtime.contextOrFrameLookup(context, frame, "archiveButtonText");
-frame.set("paginationNextText", t_6, true);
+var t_8;
+t_8 = runtime.contextOrFrameLookup(context, frame, "archiveButtonText");
+frame.set("paginationNextText", t_8, true);
 if(frame.topLevel) {
-context.setVariable("paginationNextText", t_6);
+context.setVariable("paginationNextText", t_8);
 }
 if(frame.topLevel) {
-context.addExport("paginationNextText", t_6);
+context.addExport("paginationNextText", t_8);
 }
 output += "\r\n  ";
-var t_7;
-t_7 = "/archive";
-frame.set("paginationNextUrl", t_7, true);
+var t_9;
+t_9 = "/archive";
+frame.set("paginationNextUrl", t_9, true);
 if(frame.topLevel) {
-context.setVariable("paginationNextUrl", t_7);
+context.setVariable("paginationNextUrl", t_9);
 }
 if(frame.topLevel) {
-context.addExport("paginationNextUrl", t_7);
+context.addExport("paginationNextUrl", t_9);
 }
 output += "\r\n";
 ;
 }
 output += "\r\n\r\n";
-(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_9,t_8) {
-if(t_9) { cb(t_9); return; }
-output += t_8;
+(parentTemplate ? function(e, c, f, r, cb) { cb(""); } : context.getBlock("content"))(env, context, frame, runtime, function(t_11,t_10) {
+if(t_11) { cb(t_11); return; }
+output += t_10;
 output += "\r\n";
 if(parentTemplate) {
 parentTemplate.rootRenderFunc(env, context, frame, runtime, cb);
@@ -532,7 +553,7 @@ cb(null, output);
 }
 }
 function b_content(env, context, frame, runtime, cb) {
-var lineno = 14;
+var lineno = 18;
 var colno = 3;
 var output = "";
 try {
@@ -541,35 +562,35 @@ output += "\r\n  <main id=\"main-content\" tabindex=\"-1\">\r\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/intro.njk", false, "layouts/home.njk", false, function(t_11,t_10) {
-if(t_11) { cb(t_11); return; }
-callback(null,t_10);});
-});
-tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_13,t_12) {
+env.getTemplate("partials/components/intro.njk", false, "layouts/home.njk", false, function(t_13,t_12) {
 if(t_13) { cb(t_13); return; }
 callback(null,t_12);});
 });
 tasks.push(
-function(result, callback){
-output += result;
-callback(null);
-});
-env.waterfall(tasks, function(){
-output += "\r\n    ";
-var tasks = [];
-tasks.push(
-function(callback) {
-env.getTemplate("partials/components/post-list.njk", false, "layouts/home.njk", false, function(t_15,t_14) {
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_15,t_14) {
 if(t_15) { cb(t_15); return; }
 callback(null,t_14);});
 });
 tasks.push(
-function(template, callback){
-template.render(context.getVariables(), frame, function(t_17,t_16) {
+function(result, callback){
+output += result;
+callback(null);
+});
+env.waterfall(tasks, function(){
+output += "\r\n    ";
+var tasks = [];
+tasks.push(
+function(callback) {
+env.getTemplate("partials/components/post-list.njk", false, "layouts/home.njk", false, function(t_17,t_16) {
 if(t_17) { cb(t_17); return; }
 callback(null,t_16);});
+});
+tasks.push(
+function(template, callback){
+template.render(context.getVariables(), frame, function(t_19,t_18) {
+if(t_19) { cb(t_19); return; }
+callback(null,t_18);});
 });
 tasks.push(
 function(result, callback){
@@ -581,15 +602,15 @@ output += "\r\n    ";
 var tasks = [];
 tasks.push(
 function(callback) {
-env.getTemplate("partials/components/pagination.njk", false, "layouts/home.njk", false, function(t_19,t_18) {
-if(t_19) { cb(t_19); return; }
-callback(null,t_18);});
+env.getTemplate("partials/components/pagination.njk", false, "layouts/home.njk", false, function(t_21,t_20) {
+if(t_21) { cb(t_21); return; }
+callback(null,t_20);});
 });
 tasks.push(
 function(template, callback){
-template.render(context.getVariables(), frame, function(t_21,t_20) {
-if(t_21) { cb(t_21); return; }
-callback(null,t_20);});
+template.render(context.getVariables(), frame, function(t_23,t_22) {
+if(t_23) { cb(t_23); return; }
+callback(null,t_22);});
 });
 tasks.push(
 function(result, callback){
