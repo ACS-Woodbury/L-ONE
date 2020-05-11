@@ -15,14 +15,17 @@
 	
   
   <entry>
-    <title>Students&#39; Projects</title>
-    <link href="https://acs-woodbury.github.io/L-ONE//L-ONE/posts/students-projects/"/>
+    <title>Student Projects</title>
+    <link href="https://acs-woodbury.github.io/L-ONE//L-ONE/posts/student-projects/"/>
     <updated>2020-05-10T17:00:00-07:00</updated>
-    <id>https://acs-woodbury.github.io/L-ONE//L-ONE/posts/students-projects/</id>
+    <id>https://acs-woodbury.github.io/L-ONE//L-ONE/posts/student-projects/</id>
     <content type="html"><![CDATA[
       <p>L-ONE project initiated at Woodbury University's Applied Computer Science program, mid-semester through the freshman Interactive Prototyping studio.  It was great to see the students approach the project in creative and unique ways, using the base hardware platform and template code as a springboard to imagine different wearable device prototypes addressing a new and unprecedented social need.</p>
 <p>Freshman student Chanel Tiana Cruz created a prototype named <a href="https://chaneltianacruz.cargo.site/Tr6cker-M5StickC-Project">tr6cker</a>.  Chanel wrote: &quot;I decided to name it this since I wanted it to be something short. The '6' in the name is supposed to be a backwards lowercase 'a'. I replaced it with the number six because of the six feet apart rule. [...]  The outputs I implemented in my project is a graphical picture to the LCD and an audio sound that comes out of a speaker. For the graphical picture, there are two red exclamation marks and a yellow happy face between the two exclamation marks. These pictures appear whenever the sensor camera detects that there is a [thermal] blob in the camera view.&quot;</p>
 <p><img src="/L-ONE/images/chaneltianacruz-tr6cker.jpg" alt="Tr6cker prototype by Chanel Tiana Cruz" title="Tr6cker by Chanel Tiana Cruz"></p>
+<p>Vartan Arzumanyan came up with <a href="https://citrusglasses.cargo.site/">Citrus Glasses</a>, a prototype of sunglasses that output a sound clip to notify the user that a human is approaching.  Vartan wrote that &quot;My experience working on this project was phenomenal. Because, it was combined with
+hardware and software to create something great during this pandemic.&quot;</p>
+<p><img src="/L-ONE/images/vartan-arzumanyan-citrus-glasses.jpg" alt="Citrus Glasses prototype by Vartan Arzumanyan" title="Citrus Glasses by Vartan Arzumanyan"></p>
 
     ]]></content>
   </entry>
