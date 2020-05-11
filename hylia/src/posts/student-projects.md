@@ -15,7 +15,14 @@ Freshman student Chanel Tiana Cruz created a prototype named [tr6cker](https://c
 
 ![Tr6cker prototype by Chanel Tiana Cruz](/L-ONE/images/chaneltianacruz-tr6cker.jpg "Tr6cker by Chanel Tiana Cruz")
 
+Anna Grubinski Ossyra designed [BRAD](https://www.ossyradesign.com/acs112-final-project), an acronym for Body Rear Approach Detection.  Anna's prototype is a "device to be worn on a belt. The sensor is housed within a 3D printed enclosure which is attached to the belt pointing to the rear. The M5Stick is attached to the left side of the belt for easy user interaction including visual and audible warning, and access to the home button. The device detects a person approaching from behind and [...] gives an audio and visual warning."
+
+![BRAD prototype by Anna Grubinski Ossyra](/L-ONE/images/anna-ossyra-brad.jpg "BRAD by Anna Grubinski Ossyra")
+
 Vartan Arzumanyan came up with [Citrus Glasses](https://citrusglasses.cargo.site/), a prototype of sunglasses that output a sound clip to notify the user that a human is approaching.  Vartan wrote that "My experience working on this project was phenomenal. Because, it was combined with
 hardware and software to create something great during this pandemic."
 
 ![Citrus Glasses prototype by Vartan Arzumanyan](/L-ONE/images/vartan-arzumanyan-citrus-glasses.jpg "Citrus Glasses by Vartan Arzumanyan")
+
+
+
