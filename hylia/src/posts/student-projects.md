@@ -1,5 +1,5 @@
 ---
-title: Students' Projects
+title: Student Projects
 date: '2020-05-11'
 tags:
   - social distancing
@@ -15,4 +15,7 @@ Freshman student Chanel Tiana Cruz created a prototype named [tr6cker](https://c
 
 ![Tr6cker prototype by Chanel Tiana Cruz](/L-ONE/images/chaneltianacruz-tr6cker.jpg "Tr6cker by Chanel Tiana Cruz")
 
+Vartan Arzumanyan came up with [Citrus Glasses](https://citrusglasses.cargo.site/), a prototype of sunglasses that output a sound clip to notify the user that a human is approaching.  Vartan wrote that "My experience working on this project was phenomenal. Because, it was combined with
+hardware and software to create something great during this pandemic."
 
+![Citrus Glasses prototype by Vartan Arzumanyan](/L-ONE/images/vartan-arzumanyan-citrus-glasses.jpg "Citrus Glasses by Vartan Arzumanyan")
