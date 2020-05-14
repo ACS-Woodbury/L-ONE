@@ -1,4 +1,4 @@
-const VERSION = 'ccd4-ca30-ac90';
+const VERSION = 'ed64-ed42-044e';
 const CACHE_KEYS = {
   PRE_CACHE: `precache-${VERSION}`,
   RUNTIME: `runtime-${VERSION}`
