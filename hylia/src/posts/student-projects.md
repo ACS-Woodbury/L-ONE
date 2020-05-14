@@ -19,10 +19,15 @@ Anna Grubinski Ossyra designed [BRAD](https://www.ossyradesign.com/acs112-final-
 
 ![BRAD prototype by Anna Grubinski Ossyra](/L-ONE/images/anna-ossyra-brad.jpg "BRAD by Anna Grubinski Ossyra")
 
-Vartan Arzumanyan came up with [Citrus Glasses](https://citrusglasses.cargo.site/), a prototype of sunglasses that output a sound clip to notify the user that a human is approaching.  Vartan wrote that "My experience working on this project was phenomenal. Because, it was combined with
+Vartan Arzumanyan came up with [Citrus Glasses](https://citrusglasses.cargo.site/), a prototype of sunglasses that output a sound clip to notify the user that a human is approaching.  Vartan wrote that "my experience working on this project was phenomenal. Because, it was combined with
 hardware and software to create something great during this pandemic."
 
 ![Citrus Glasses prototype by Vartan Arzumanyan](/L-ONE/images/vartan-arzumanyan-citrus-glasses.jpg "Citrus Glasses by Vartan Arzumanyan")
 
+Abigail Maki prototyped PinM5, a concept for a wearable pin that would alert the user with vibration, color and sound.  Abi stated that "designing hardware for COVID-19 was an interesting and relatable concept because it made me think about emergency situations and how people would react. How much is too much, and how alerts should look or sound?"
 
+![PinM5 concept by Abigail Maki](/L-ONE/images/abigail-maki-pinm5.jpg "PinM5 by Abigail Maki")
 
+Sungmin Lee's [M5 Temp Type-D](https://leeverse.squarespace.com/projects/social-distance-device-for-alternate-future) imagined "an alternate future where COVID 19 gets worse and becomes a deadly virus. [...]  During the deadly virus situation, firearms can be misused by certain people. So, I wanted to design the device as armor so users can protect themselves."
+
+![M5 Temp Type-D concept by Abigail Maki](/L-ONE/images/sungmin-lee-m5temp-type-d.jpg "M5 Temp Type-D by Sungmin Lee")
